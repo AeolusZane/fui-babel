@@ -11,3 +11,7 @@ yarn build
 @babel/plugin-transform-block-scoping
 
 这个包太老了，fineui的babel配置这个包会下7.5.5版本的这个包。更新这个包。
+
+yarn add @babel/plugin-transform-block-scoping
+
+fineui默认的babel配置可能看要不要升下级
