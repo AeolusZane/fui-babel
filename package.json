@@ -1,0 +1,12 @@
+{
+  "name": "fui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node process.js"
+  },
+  "dependencies": {
+    "@fui/babel-preset-fineui": "^1.0.5"
+  }
+}
